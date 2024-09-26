@@ -2,6 +2,9 @@
 # Develope-Snake-Game-Using-Python
 Snake Game - Python Project I developed a classic Snake game using Python and the pygame library as part of my exploration into game development. This project showcases my skills in programming, real-time user input handling, and creating interactive applications.
 
+![Screenshot 2024-09-18 192032](https://github.com/user-attachments/assets/061af9d5-4f9b-412c-86b2-fce25dcd1091)
+
+
 # Key Learnings:
 
 - Understanding the intricacies of game loops and event handling.
